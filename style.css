@@ -1,0 +1,56 @@
+.one {
+    background-color: black;
+    color: whitesmoke;
+    text-align: left;
+    padding: 20px;
+}
+
+#id {
+    color: peru;
+}
+
+.two {
+    background-color: bisque;
+    color: black;
+    text-align: left;
+    padding: 20px;
+}
+
+.four {
+    background-color: black;
+    color: whitesmoke;
+    text-align: left;
+
+}
+
+.five {
+    background-color: bisque;
+    color: black;
+    text-align: left;
+}
+
+
+.six{
+    background-color: purple;
+    color: white;
+    vertical-align: top;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    border-radius: 10px;
+
+   
+   
+}
+.seven{
+    background-color:green;
+    color: white;
+   vertical-align: top;
+    display: inline-block;
+    padding: 20px;
+    height: 250px;
+    border-radius: 10px;
+  
+   
+}
+
